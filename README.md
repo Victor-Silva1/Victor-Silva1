@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @Victor-Silva1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👋 Olá, eu sou o Victor Silva
 
-<!---
-Victor-Silva1/Victor-Silva1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Desenvolvedor em formação 
+📍 Belo Horizonte - MG  
+
+🚀 Tecnologias:
+- C# / .NET
+- Java
+
+📚 Atualmente aprendendo:
+- Projetos e processos de TI
+- Sistemas distribuidos
+
+📫 Contato:
+- Email: victordasilvacosta10@gmail.com
+- LinkedIn: https://www.linkedin.com/in/victor-silva-229000403/
+
+⚡ Projetos em destaque:
+- GlobalBankApi (API bancária)
+- Calculadora Java POO

@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Victor Silva
 
-💻 Desenvolvedor em formação 
+💻 Desenvolvedor em formação             
 📍 Belo Horizonte - MG  
 
 🚀 Tecnologias:
